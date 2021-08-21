@@ -7,7 +7,8 @@ const args = msg.content.split(' ')
 const num = args[1]
 const tax = probot(num)
 }
-})```
+})
+```
 
 
 Example: -tax 10K<br>
