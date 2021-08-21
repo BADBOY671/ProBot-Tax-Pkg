@@ -23,6 +23,4 @@ Result: 1000<br>
 
 <br>
 
-GitHub: https://github.com/BADBOY671/ProBot-Tax-Pkg
-
-Npm: 
+Npm: https://www.npmjs.com/package/probot-tax-npm
