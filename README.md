@@ -6,6 +6,7 @@ if(msg.content.startsWith(prefix + "tax")){
 const args = msg.content.split(' ')
 const num = args[1]
 const tax = probot(num)
+msg.channel.send(tax)
 }
 })
 ```
